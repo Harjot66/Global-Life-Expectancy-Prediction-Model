@@ -1,4 +1,4 @@
-# Global-Life-Expectancy-Prediction-Model
+# Global Life Expectancy Prediction Model
 
 ## Introduction
 
